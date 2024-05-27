@@ -18,7 +18,7 @@ Instal Library: Pastikan untuk menginstal library yang diperlukan dengan menjala
 
 Jalankan Skrip: Jalankan skrip scrape_data.py untuk memulai proses web-scraping.
 
-Analisis Data: Data yang telah dikumpulkan akan disimpan dalam format JSON di dalam direktori proyek. Anda dapat menganalisis data tersebut sesuai kebutuhan Anda.
+Analisis Data: Data yang telah dikumpulkan akan disimpan dalam format csv di dalam direktori proyek. Anda dapat menganalisis data tersebut sesuai kebutuhan Anda.
 
 Kontribusi dan saran perbaikan sangat dihargai. Silakan buat pull request jika Anda memiliki ide untuk meningkatkan proyek ini.
 
